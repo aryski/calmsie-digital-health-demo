@@ -83,10 +83,7 @@ Allows for the management of a user's account and health data.
 ## Notifications
 <div class="row">
   <div class="column">
-Recommendations 
-Health pro tips
-Recommendation generator reminders
-Made with Firebase Cloud Messaging
+Recommendation generator reminders made with Firebase Cloud Messaging.
         <br>
     <br>
   </div>
